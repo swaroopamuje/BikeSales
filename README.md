@@ -1,1 +1,2 @@
 # BikeSales
+This project involves the comprehensive analysis of bike sales data from various companies in the USA, Mexico, and Canada. Using Power BI for data visualization and DAX queries for in-depth analysis, we developed a machine learning model in Google Colab to predict product performance based on profits made and quantities sold. The insights generated aim to enhance decision-making processes for stakeholders.
